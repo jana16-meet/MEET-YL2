@@ -1,0 +1,15 @@
+<html>
+
+<head>
+<title> homepage </title>
+<h1> Hello </h1>
+</head>
+
+<body>
+<p> My name is Jana. im 16 years old girl living in Jerusalem </p> 
+<a href= "aboutme.html"> aboutme </a>
+<br>
+<a href= "contactme.html"> contactme </a>
+</body>
+
+</html>

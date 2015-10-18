@@ -1,0 +1,26 @@
+<html>
+
+<head>
+<title> aboutme </title>
+<h1> Hello </h1>
+</head>
+
+<body>
+<h1> Hobbies </h1>
+<ol>
+	<li> designing </li>
+	<li> swimming </li>
+	<li> playing clarinet </li>
+</ol>
+<h1> Inerests </h1>
+<ol>
+	<li> neurology </li>
+	<li> politics </li>
+	<li> travelling </li>
+</ol>
+<a href= "homepage.html"> homepage </a>
+<br>
+<a href= "contactme.html"> contactme </a>
+</body>
+
+</html>

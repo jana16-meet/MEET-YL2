@@ -1,0 +1,17 @@
+<html>
+
+<head>
+<title> homepage </title>
+<link rel="stylesheet" type="text/css" href="mywebsite.css">
+</head>
+
+<body>
+<img id="homepageimg" src="homepageimg.jpeg"/>
+<h1> Jana Dajani </h1>
+<p> My name is Jana. I'm 16 years old girl living in Jerusalem </p> 
+<a href= "aboutme.html"> aboutme </a>
+<br>
+<a href= "contactme.html"> contactme </a>
+</body>
+
+</html>
