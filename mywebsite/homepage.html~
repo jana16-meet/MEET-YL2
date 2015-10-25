@@ -6,9 +6,9 @@
 </head>
 
 <body>
-<img id="homepageimg" src="homepageimg.jpeg"/>
-<h1> Jana Dajani </h1>
-<p> My name is Jana. I'm 16 years old girl living in Jerusalem </p> 
+<img id="home_page_img" src="home_page_img.jpeg"/>
+<h1 id="center_text"> Jana Dajani </h1>
+<p id="center_text"> Hey there, <br> I'm 16 years old girl <br> I'm Palestinianliving in Jerusalem </p> 
 <a href= "aboutme.html"> aboutme </a>
 <br>
 <a href= "contactme.html"> contactme </a>
