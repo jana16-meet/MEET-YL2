@@ -5,8 +5,8 @@
 <link rel="stylesheet" type="text/css" href="mywebsite.css">
 </head>
 
-<body>
-<form action="{{url_for('datapage')}}", mrthod="post">
+<body id="cotactme">
+<form action="{{url_for('datapage')}}", method="post">
 	Name <input type="text" name="name">
 	<br>
 	Facebook link<input type="text" name="facebook">
@@ -20,4 +20,6 @@
 </body>
 
 </html>
+
+
 

@@ -1,3 +1,12 @@
-#home_page_img {border-radius:300px; height:500; float:right; float:left;}
+#homepage_body {background-image: url("background.jpeg");}
+
+#home_page_img {border-radius:200px; height:250; position:relative; top:200px; left:300px;}
+
 .center_text {text-align:center}
+
+#jana {font-family:,"Arial"; font-style:normal; font-size:50px; font-weight:700}
+
+#dajani {font-family:"Arial"; font-style:normal; font-size:50px; font-weight:100}
+
+#list {border-style:solid; border-color:aqua; background:aqua; position:fixed; top:-20px; right:0px; left:0px;}
 
