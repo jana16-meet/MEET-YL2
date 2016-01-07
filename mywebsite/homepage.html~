@@ -6,13 +6,19 @@
 </head>
 
 <body id="homepage_body">
-<div> <img id="home_page_img" src="home_page_img.jpeg"/> </div>
 
-<p id="jana"> Jana<span id="dajani">Dajani </span> </p>
+<br><br><br><br><br><br>
 
-<p id="center_text"> Hey there, <br> I'm 16 years old girl <br> I'm Palestinianliving in Jerusalem </p> 
+<p id="homepage_description">
+Jana<span id="dajani">Dajani</span>
+<br><br>
+<span id="line1_homepage">This is a picture of me at Jericho,Palestin.</span>
+<br><br>
+<span id="homepage_links_span"> Want to know more about me? <a id="homepage_links" href= "aboutme.html">About me</a>
+<br> 
+Contact me :) <a id="homepage_links" href= "contactme.html">Contact me</a> </span> 
+</p>
 
-<p id="list"> <br><br> <a href= "aboutme.html">aboutme</a> <span> <a href= "contactme.html">contactme</a> <br><br> </p>
 
 </body>
 

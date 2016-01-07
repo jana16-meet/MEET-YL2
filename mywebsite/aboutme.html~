@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 
 <head>
@@ -5,22 +6,40 @@
 <link rel="stylesheet" type="text/css" href="mywebsite.css">
 </head>
 
-<body id="aboutme">
+<body id="aboutme_body">
+
+<div id="parent_div">
+<div id="hobbies_div">
 <h1> Hobbies </h1>
 <ol>
 	<li> designing </li>
 	<li> swimming </li>
 	<li> playing clarinet </li>
 </ol>
+</div>
+
+
+<div id="interests_div">
 <h1> Inerests </h1>
 <ol>
 	<li> neurology </li>
 	<li> politics </li>
 	<li> travelling </li>
 </ol>
-<a href= "homepage.html"> homepage </a>
+</div>
+</div>
 <br>
-<a href= "contactme.html"> contactme </a>
+
+
+
+
+
+<p id="aboutme_description">
+Back to homepage <a id="aboutme_links" href= "homepage.html"> homepage </a>
+<br>
+You still want to know more? <a id="aboutme_links" href= "contactme.html"> contactme </a>
+</p>
+
 </body>
 
 </html>

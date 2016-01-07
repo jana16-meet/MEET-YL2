@@ -1,12 +1,27 @@
 #homepage_body {background-image: url("background.jpeg");}
 
-#home_page_img {border-radius:200px; height:250; position:relative; top:200px; left:300px;}
+#homepage_description {font-family:,"Arial"; font-style:normal; font-size:50px; font-weight:700; position:static; text-align:center; color:white;}
 
-.center_text {text-align:center}
+#dajani {font-weight:100; color:aqua;}
 
-#jana {font-family:,"Arial"; font-style:normal; font-size:50px; font-weight:700}
+#line1_homepage {font-size:20px; font-weight:200;}
 
-#dajani {font-family:"Arial"; font-style:normal; font-size:50px; font-weight:100}
+#homepage_links_span {font-size:20px; font-weight:200;}
 
-#list {border-style:solid; border-color:aqua; background:aqua; position:fixed; top:-20px; right:0px; left:0px;}
+#homepage_links {color:aqua;}
+
+
+#aboutme_body {background-image: url("background.jpeg");}
+
+#aboutme_links {color:aqua;}
+
+#aboutme_description {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; top:0px; color:white; float:bottom;}
+
+#hobbies_div {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; color:white; border:3px solid #73AD21; float:left;}
+
+#interests_div {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; color:white; border:3px solid #73AD21; float:right;}
+
+ 
+
+
 
