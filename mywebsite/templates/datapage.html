@@ -1,0 +1,20 @@
+<html>
+<head>
+<title> datapage </title>
+<link rel="stylesheet" type="text/css" href="mywebsite.css">
+</head>
+
+<body>
+
+        {% if name %} 
+	  <h1>Hello {{ name }}!</h1>
+	{% else %}
+	  <h1>Hello World!</h1>
+	{% endif %}
+	{%for x in range(0,5)%}
+		<h3> Loop number {{x}} </h3>
+	{% endfor %}
+</body>
+
+</html>
+
