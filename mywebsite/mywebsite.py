@@ -5,9 +5,35 @@ app = Flask(__name__)
 def homepage():
 	return render_template('homepage.html')
 
-@app.route("/aboutme/")
-	def homepage():
+@app.route("/")
+	def aboutme():
 	return render_template('aboutme.html')
+
+@app.route("/")
+	def contactme():
+	return render_template('contactme.html')
+
+
+@app.route("/datapage/")
+@app.route("/datapage/<name>")
+@app.route("/datapage/", methods=['POST']) 
+def hello(name=None):
+	if ('name' in request.form.keys()):
+		name = request.form['name'] 
+	return render_template('datapage.html', name=name)
+
+if __name__ == "__main__": 
+	app.debug = True 
+	app.run() 
+
+
+
+
+
+
+
+
+
 
 @app.route("/contactme/", methods=['POST'])
 def contactme():

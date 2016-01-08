@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="mywebsite.css">
 </head>
 
-<body id="cotactme">
+<body id="cotactme_body">
 <form action="{{url_for('datapage')}}", method="post">
 	Name <input type="text" name="name">
 	<br>
