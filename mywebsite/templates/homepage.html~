@@ -12,11 +12,11 @@
 <p id="homepage_description">
 Jana<span id="dajani">Dajani</span>
 <br><br>
-<span id="line1_homepage">This is a picture of me at Jericho, Palestin.</span>
+<span id="line1_homepage">I like kiwi.</span> 
 <br><br>
 <span id="homepage_links_span"> Want to know more about me? <a id="homepage_links" href= "aboutme.html">About me</a>
 <br> 
-Contact me :) <a id="homepage_links" href= "contactme.html">Contact me</a> </span> 
+Contact me <a id="homepage_links" href= "contactme.html">Contact me</a> </span> 
 </p>
 
 

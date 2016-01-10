@@ -1,34 +1,44 @@
-#homepage_body {background-image: url("background3.jpeg");}
+#homepage_body {background-image: url("background.jpg");}
 
 #homepage_description {font-family:,"Arial"; font-style:normal; font-size:50px; font-weight:900; position:static; text-align:center; color:aqua;}
 
 #dajani {font-weight:100; color:white;}
 
-#line1_homepage {font-size:20px; font-weight:200; color:white;}
+#line1_homepage {font-size:30px; font-weight:200; color:aqua;}
 
-#homepage_links_span {font-size:20px; font-weight:200; color:white;}
+#homepage_links_span {font-size:26px; font-weight:200; color:white;}
 
 #homepage_links {color:aqua;}
 
 
-#aboutme_body {background-image: url("background.jpeg");}
+#aboutme_body {background-image: url("background1.jpeg"); text-align:center;}
 
 #aboutme_links {color:aqua;}
 
 #aboutme_description {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; top:0px; color:white; float:bottom;}
 
-#contactme_body {background-image: url("background3.jpeg"); color:aqua;}
+#contactme_body {background-image: url("background1.jpeg");}
 
-#contactme_links {color:white; text-align:center; font-size:30px;}
+#contactme_links_span {font-size:26px; font-weight:200; color:white; text-align:center;}
 
-#contactme {color:white; text-align:center; vertical-align:text-top; font-size:30px}
+#contactme_links {color:aqua; text-align:center;}
 
 
-#hobbies_div {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; color:white; border:3px solid #73AD21; float:left;}
+#contactme {color:aqua; text-align:center; vertical-align:text-top; font-size:20px}
 
-#interests_div {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; color:white; border:3px solid #73AD21; float:right;}
+#datapage_body {background-image: url("background.jpg");}
 
- 
+#name {text-align:center; color:aqua}
+
+h2 {color:aqua;}
+
+#bansky {-ms-transform: rotate(7deg); /* IE 9 */
+         -webkit-transform: rotate(7deg); /* Chrome, Safari, Opera */
+         transform: rotate(90deg);}
+
+h3 {color:aqua;}
+
+#img {text-align:center;} 
 
 
 

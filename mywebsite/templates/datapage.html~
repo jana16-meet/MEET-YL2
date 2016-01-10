@@ -4,12 +4,15 @@
 <link rel="stylesheet" type="text/css" href="mywebsite.css">
 </head>
 
-<body>
+<body id="datapage_body">
+<div id="name">
+{% if name %}
+	<h1>Hello {{ name }}!</h1> 
+		{% else %}
+			<h1>Hello World!</h1>
+{% endif %} 
+</div>
 
-def hello(name=None):
-	if ('name' in request.form.keys()):
-		name = request.form['name']
-		return render_template('datapage.html', name=name)
 
 </body>
 

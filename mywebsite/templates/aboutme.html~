@@ -1,38 +1,24 @@
 <!DOCTYPE html>
 <html>
-
 <head>
 <title> aboutme </title>
-<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='mywebsite.css') }}"		
+<link rel="stylesheet" type="text/css" href="mywebsite.css"		
 </head>
 
 <body id="aboutme_body">
+<h2>I like making different items.<h2>
+<br><br>
 
-<div id="parent_div">
-<div id="hobbies_div">
-<h1> Hobbies </h1>
-<ol>
-	<li> designing </li>
-	<li> swimming </li>
-	<li> playing clarinet </li>
-</ol>
+<div id="img">
+<p><h5>A Palestinian embroidered purse.</h5><img id="purse" src="1.jpg" alt="Palestinian embroidered purse" height="215" width="215" align="left"></p> 
+<br><br><br><br><br><br><br><br><br>
+
+<p><h5>I painted a Bansky painting.</h5><img id="bansky" src="2.JPG" alt="Banksy repainting" height="215" width="215" align="left"></p>
+<br><br><br><br><br><br><br><br><br>
+
+<p><h5>A designed clock.</h5><img id="clock" src="3.jpg" alt="watch" height="215" width="215" align="left"></p>
+<br><br><br><br><br><br><br><br><br><br><br>
 </div>
-
-
-<div id="interests_div">
-<h1> Inerests </h1>
-<ol>
-	<li> neurology </li>
-	<li> politics </li>
-	<li> travelling </li>
-</ol>
-</div>
-</div>
-<br>
-
-
-
-
 
 <p id="aboutme_description">
 Back to homepage <a id="aboutme_links" href= "homepage.html"> homepage </a>
@@ -41,5 +27,4 @@ You still want to know more? <a id="aboutme_links" href= "contactme.html"> conta
 </p>
 
 </body>
-
 </html>
