@@ -6,20 +6,44 @@
 </head>
 
 <body id="cotactme_body">
+
+<br><br><br><br><br><br><br><br><br>
+
+<div id="contactme">
 <form action="{{url_for('datapage')}}", method="post">
-	Name <input type="text" name="name">
+	Name<input type="text" name="name" placeholder="Your name">
 	<br>
-	Facebook link<input type="text" name="facebook">
+	Facebook link<input type="text" name="facebook" placeholder="Your facebook account">
 	<br>
 	<input type="submit" value="submit">
 </form>
+</div>
 
+<div id="contactme_links">
 <a href= "homepage.html"> homepage </a>
 <br>
 <a href= "aboutme.html"> aboutme </a>
+</div>
+
+
 </body>
 
 </html>
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

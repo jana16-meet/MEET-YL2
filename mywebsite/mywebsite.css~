@@ -17,9 +17,9 @@
 
 #aboutme_description {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; top:0px; color:white; float:bottom;}
 
-#hobbies_div {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; color:white; border:3px solid #73AD21; left:50%;}
+#hobbies_div {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; color:white; border:3px solid #73AD21; float:left;}
 
-#interests_div {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; color:white; border:3px solid #73AD21; right: 20%;}
+#interests_div {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; color:white; border:3px solid #73AD21; float:right;}
 
  
 

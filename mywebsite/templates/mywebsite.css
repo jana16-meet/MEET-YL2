@@ -1,0 +1,34 @@
+#homepage_body {background-image: url("background3.jpeg");}
+
+#homepage_description {font-family:,"Arial"; font-style:normal; font-size:50px; font-weight:900; position:static; text-align:center; color:aqua;}
+
+#dajani {font-weight:100; color:white;}
+
+#line1_homepage {font-size:20px; font-weight:200; color:white;}
+
+#homepage_links_span {font-size:20px; font-weight:200; color:white;}
+
+#homepage_links {color:aqua;}
+
+
+#aboutme_body {background-image: url("background.jpeg");}
+
+#aboutme_links {color:aqua;}
+
+#aboutme_description {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; top:0px; color:white; float:bottom;}
+
+#contactme_body {background-image: url("background1.jpeg"); color:aqua;}
+
+#contactme_links {color:white; text-align:center; font-size:30px;}
+
+#contactme {color:white; text-align:center; vertical-align:text-top; font-size:30px}
+
+
+#hobbies_div {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; color:white; border:3px solid #73AD21; float:left;}
+
+#interests_div {font-family:,"Arial"; font-style:normal; font-size:20px; font-weight:200; color:white; border:3px solid #73AD21; float:right;}
+
+ 
+
+
+

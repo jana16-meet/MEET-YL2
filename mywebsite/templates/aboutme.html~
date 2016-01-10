@@ -3,7 +3,7 @@
 
 <head>
 <title> aboutme </title>
-<link rel="stylesheet" type="text/css" href="mywebsite.css"		
+<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='mywebsite.css') }}"		
 </head>
 
 <body id="aboutme_body">
